@@ -1,6 +1,6 @@
 # Small NodeJS Server with Express
 
-## Routes dinanmical on folder /app/routes
+## Routes dynamically on folder /app/routes
 
 ### user resource
 
