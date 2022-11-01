@@ -1,0 +1,38 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "dev": "nodemon server.js",
+        "debug": "set DEBUG=* & nodemon server.js",
+        "start": "node server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.20.1",
+        "compression": "^1.7.4",
+        "cors": "^2.8.5",
+        "debug": "^4.3.4",
+        "eslint": "^8.0.1",
+        "express": "^4.18.2",
+        "express-fileupload": "^1.4.0",
+        "express-routemagic": "^2.0.8",
+        "lodash": "^4.17.21",
+        "morgan": "^1.10.0",
+        "nodemon": "^2.0.4",
+        "rotating-file-stream": "^3.0.4"
+    },
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^5.0.0",
+        "eslint-config-prettier": "^8.5.0",
+        "eslint-config-standard-with-typescript": "^23.0.0",
+        "eslint-plugin-import": "^2.25.2",
+        "eslint-plugin-n": "^15.0.0",
+        "eslint-plugin-prettier": "^4.2.1",
+        "eslint-plugin-promise": "^6.0.0",
+        "prettier": "^2.7.1",
+        "typescript": "*"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/node_modules": true,
+        "**/.vscode": true,
+        ".vscode": true,
+        "node_modules": true,
+        "**/.gitignore": true,
+        ".gitignore": true,
+        "**/yarn.lock": true,
+        "*.lock": true,
+        "yarn.lock": true,
+        "**/*.lock": true,
+        "**/package-lock.json": true,
+        "package-lock.json": true,
+        "**/.editorconfig": true,
+        ".editorconfig": true
+    },
+    "explorerExclude.backup": {}
+}
