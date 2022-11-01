@@ -1,4 +1,6 @@
-# Small Test Environment Node JS with Express without database
+# Node JS with Express Environment of tests without database
+
+### Api for frontend development: web, desktop and mobile
 
 ## Routes dynamically on folder /app/routes
 
