@@ -1,4 +1,4 @@
-# Small Test Enviroment NodeJS Server with Express
+# Small Test Environment Node JS Server with Express without database
 
 ## Routes dynamically on folder /app/routes
 
