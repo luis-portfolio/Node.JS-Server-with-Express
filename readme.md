@@ -1,4 +1,4 @@
-## [< Node JS with Express Environment of tests without database](https://github.com/luis-portfolio/Index)
+## [Node JS with Express Environment of tests without database](https://github.com/luis-portfolio/Index)
 
 > Api for frontend development: web, desktop and mobile
 
